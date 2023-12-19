@@ -1,1 +1,1 @@
-# Miniprojetos para minicuirsos de Julia
+# Miniprojetos para minicursos de Julia
